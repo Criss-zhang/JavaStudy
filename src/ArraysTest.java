@@ -18,6 +18,8 @@ public class ArraysTest {
             if (i != numLen-1 && num != 0){
                 result += hanArr[num] + unitArr[numLen -2 -i];
             }else {
+                //如果连续的都是0的话，那就不将额外的零追加到数组中
+                if (i!=0 && num == 0 && (numStr.charAt(i-1)-48==0))continue;
                 result += hanArr[num];
             }
         }
@@ -28,6 +30,6 @@ public class ArraysTest {
     public static void main(String[] args) {
         ArraysTest arraysTest = new ArraysTest();
         System.out.println(Arrays.toString(arraysTest.divide(123.45)));
-        System.out.println(arraysTest.toHanArr("1234"));
+        System.out.println(arraysTest.toHanArr("1004"));
     }
 }
