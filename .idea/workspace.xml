@@ -46,16 +46,9 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Exam01">
-    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysTest" />
-      <module name="JavaStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysTest01" />
+  <component name="RunManager" selected="Application.PolymorphismTest">
+    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Apple" />
       <module name="JavaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +56,20 @@
     </configuration>
     <configuration name="Exam01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exam01" />
+      <module name="JavaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectTest" />
+      <module name="JavaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolymorphismTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismTest" />
       <module name="JavaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,10 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolymorphismTest" />
+        <item itemvalue="Application.Apple" />
+        <item itemvalue="Application.ObjectTest" />
         <item itemvalue="Application.Exam01" />
         <item itemvalue="Application.WuZiQi" />
-        <item itemvalue="Application.ArraysTest" />
-        <item itemvalue="Application.ArraysTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +116,8 @@
       <updated>1618712383846</updated>
       <workItem from="1618712385439" duration="1508000" />
       <workItem from="1618713917476" duration="284000" />
-      <workItem from="1618714217249" duration="8847000" />
+      <workItem from="1618714217249" duration="13726000" />
+      <workItem from="1618811073840" duration="957000" />
     </task>
     <servers />
   </component>
@@ -142,26 +151,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.-1.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618721641495" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1618728021178">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="194" key="GridCell.Tab.0.bottom" timestamp="1618812033023">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618728021178" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994848" />
     <state width="1361" height="196" key="GridCell.Tab.0.bottom/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922829" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1618728021176">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="194" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1618812033023" />
+    <state width="1201" height="194" key="GridCell.Tab.0.bottom/0.25.1243.775@0.25.1243.775" timestamp="1618811368689" />
+    <state width="1238" height="194" key="GridCell.Tab.0.center" timestamp="1618812033022">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618728021176" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994846" />
     <state width="1361" height="196" key="GridCell.Tab.0.center/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922827" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1618728021175">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="194" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1618812033022" />
+    <state width="1201" height="194" key="GridCell.Tab.0.center/0.25.1243.775@0.25.1243.775" timestamp="1618811368688" />
+    <state width="1238" height="194" key="GridCell.Tab.0.left" timestamp="1618812033021">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618728021175" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994846" />
     <state width="1361" height="196" key="GridCell.Tab.0.left/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922827" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1618728021177">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1238" height="194" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1618812033021" />
+    <state width="1201" height="194" key="GridCell.Tab.0.left/0.25.1243.775@0.25.1243.775" timestamp="1618811368688" />
+    <state width="1238" height="194" key="GridCell.Tab.0.right" timestamp="1618812033022">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618728021177" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994847" />
     <state width="1361" height="196" key="GridCell.Tab.0.right/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922828" />
+    <state width="1238" height="194" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1618812033022" />
+    <state width="1201" height="194" key="GridCell.Tab.0.right/0.25.1243.775@0.25.1243.775" timestamp="1618811368689" />
     <state width="1398" height="196" key="GridCell.Tab.1.bottom" timestamp="1618721619852">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -182,10 +199,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="60" key="SettingsEditor/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618714429738" />
-    <state x="375" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1618714218576">
-      <screen x="0" y="25" width="1403" height="875" />
+    <state x="332" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1618811078293">
+      <screen x="0" y="25" width="1243" height="775" />
     </state>
     <state x="375" y="281" key="com.intellij.ide.util.TipDialog/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618714218576" />
+    <state x="332" y="252" key="com.intellij.ide.util.TipDialog/0.25.1243.775@0.25.1243.775" timestamp="1618811078293" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1618724366404">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
