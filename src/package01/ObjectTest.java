@@ -1,6 +1,6 @@
 package package01;
 
-public class ObjectTest {
+public class    ObjectTest {
 
 }
 class ooo{
