@@ -1,10 +1,17 @@
 package package02;
 
 public class FinalClassTest {
+    public static void main(String[] args) {
+        Name name = new Name("criss", "zhang");
+        Person person = new Person(name);
+        name.setFirstName("cccc");
+        System.out.println(person);
+    }
 }
 class Person{
     private final Name name;
     public Person(Name name){
+        //重新创建了一个对象。。。使其值不能被外部改变
         this.name = new Name(name.getFirstName(), name.getLastName());
     }
 
@@ -12,6 +19,12 @@ class Person{
         return new Name(name.getFirstName(), name.getLastName());
     }
 
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name=" + name +
+                '}';
+    }
 }
 class Name{
     private String firstName;
@@ -36,5 +49,13 @@ class Name{
 
     public void setLastName(String lastName) {
         this.lastName = lastName;
+    }
+
+    @Override
+    public String toString() {
+        return "Name{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                '}';
     }
 }
