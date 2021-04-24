@@ -15,8 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,7 +45,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.ATest">
+  <component name="RunManager" selected="Application.EnumTest03">
     <configuration name="ATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="package02.interfacestudy.ATest" />
       <module name="JavaStudy" />
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscernVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="package02.interfacestudy.DiscernVariable" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package02.enmu.EnumTest" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="package02.interfacestudy.*" />
+          <option name="PATTERN" value="package02.enmu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="package02.interfacestudy.InterfaceTest04" />
+    <configuration name="EnumTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package02.enmu.EnumTest02" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="package02.interfacestudy.*" />
+          <option name="PATTERN" value="package02.enmu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="package02.interfacestudy.LocalInnerClass" />
+    <configuration name="EnumTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package02.enmu.EnumTest03" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="package02.interfacestudy.*" />
+          <option name="PATTERN" value="package02.enmu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumTest03" />
+        <item itemvalue="Application.EnumTest02" />
+        <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.ATest" />
         <item itemvalue="Application.AnonymousTest" />
-        <item itemvalue="Application.InterfaceTest04" />
-        <item itemvalue="Application.LocalInnerClass" />
-        <item itemvalue="Application.DiscernVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,7 @@
       <workItem from="1619092839946" duration="3405000" />
       <workItem from="1619178818000" duration="632000" />
       <workItem from="1619179634020" duration="142000" />
-      <workItem from="1619179790774" duration="6809000" />
+      <workItem from="1619179790774" duration="8980000" />
     </task>
     <servers />
   </component>
@@ -170,10 +171,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1619254780502">
+    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1619267856118">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1619254780502" />
+    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1619267856118" />
     <state x="440" y="131" key="#com.intellij.ide.util.MemberChooser/0.25.1243.775@0.25.1243.775" timestamp="1619096050695" />
     <state x="467" y="311" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1618714197396">
       <screen x="0" y="0" width="1440" height="900" />
@@ -195,33 +196,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.-1.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618721641495" />
-    <state width="1238" height="167" key="GridCell.Tab.0.bottom" timestamp="1619254821540">
+    <state width="1238" height="167" key="GridCell.Tab.0.bottom" timestamp="1619267911378">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994848" />
     <state width="1361" height="196" key="GridCell.Tab.0.bottom/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922829" />
-    <state width="1238" height="167" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1619254821540" />
+    <state width="1238" height="167" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1619267911378" />
     <state width="1238" height="194" key="GridCell.Tab.0.bottom/0.25.1243.775@0.25.1243.775" timestamp="1619021638452" />
-    <state width="1238" height="167" key="GridCell.Tab.0.center" timestamp="1619254821539">
+    <state width="1238" height="167" key="GridCell.Tab.0.center" timestamp="1619267911377">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994846" />
     <state width="1361" height="196" key="GridCell.Tab.0.center/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922827" />
-    <state width="1238" height="167" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1619254821539" />
+    <state width="1238" height="167" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1619267911377" />
     <state width="1238" height="194" key="GridCell.Tab.0.center/0.25.1243.775@0.25.1243.775" timestamp="1619021638450" />
-    <state width="1238" height="167" key="GridCell.Tab.0.left" timestamp="1619254821538">
+    <state width="1238" height="167" key="GridCell.Tab.0.left" timestamp="1619267911377">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994846" />
     <state width="1361" height="196" key="GridCell.Tab.0.left/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922827" />
-    <state width="1238" height="167" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1619254821538" />
+    <state width="1238" height="167" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1619267911377" />
     <state width="1238" height="194" key="GridCell.Tab.0.left/0.25.1243.775@0.25.1243.775" timestamp="1619021638450" />
-    <state width="1238" height="167" key="GridCell.Tab.0.right" timestamp="1619254821540">
+    <state width="1238" height="167" key="GridCell.Tab.0.right" timestamp="1619267911378">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994847" />
     <state width="1361" height="196" key="GridCell.Tab.0.right/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922828" />
-    <state width="1238" height="167" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1619254821540" />
+    <state width="1238" height="167" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1619267911378" />
     <state width="1238" height="194" key="GridCell.Tab.0.right/0.25.1243.775@0.25.1243.775" timestamp="1619021638451" />
     <state width="1398" height="196" key="GridCell.Tab.1.bottom" timestamp="1618721619852">
       <screen x="0" y="0" width="1440" height="900" />
@@ -254,11 +255,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="402" y="12" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1619014669858" />
-    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup" timestamp="1619241863240">
+    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup" timestamp="1619257293255">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618724366404" />
-    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1619241863240" />
+    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1619257293255" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
