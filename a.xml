@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-03T10:44:27.685296Z</date>
+  <millis>1620038667685</millis>
+  <nanos>296000</nanos>
+  <sequence>0</sequence>
+  <logger>logg</logger>
+  <level>INFO</level>
+  <class>chapter7.LoggerI18N</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>普通信息</message>
+  <key>info</key>
+  <catalog>config/logMess</catalog>
+</record>
+<record>
+  <date>2021-05-03T10:44:27.720497Z</date>
+  <millis>1620038667720</millis>
+  <nanos>497000</nanos>
+  <sequence>1</sequence>
+  <logger>logg</logger>
+  <level>SEVERE</level>
+  <class>chapter7.LoggerI18N</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>错误信息</message>
+  <key>error</key>
+  <catalog>config/logMess</catalog>
+</record>
+</log>

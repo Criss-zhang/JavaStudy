@@ -5,10 +5,10 @@ public class PointTest {
     public static void main(String[] args) {
         winPoint = 800;
 //        System.out.println(winPoint);
-        Player win1 = new Player(500);
-        Player win2 = new Player(2000);
-        Player lose1 = new Player(3000 );
-        Player lose2 = new Player(100);
+        Player win1 = new Player(111);
+        Player win2 = new Player(200);
+        Player lose1 = new Player(2000 );
+        Player lose2 = new Player(2000);
         PointTest.balance(win1,win2,lose1,lose2,winPoint);
         System.out.println(win1.getPoints());
         System.out.println(win2.getPoints());

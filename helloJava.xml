@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-03T10:36:41.548517Z</date>
+  <millis>1620038201548</millis>
+  <nanos>517000</nanos>
+  <sequence>0</sequence>
+  <logger>helloJava</logger>
+  <level>SEVERE</level>
+  <class>chapter7.LoggerTest01</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>ERROR</message>
+</record>
+</log>
