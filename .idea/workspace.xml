@@ -53,7 +53,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -63,13 +63,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeworkSplit">
-    <configuration name="ArrayCut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.homework.homework2.ArrayCut" />
+  <component name="RunManager" selected="Application.CollectionTest05">
+    <configuration name="CollectionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.CollectionTest01" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.homework.homework2.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.FormatTest07" />
+    <configuration name="CollectionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.CollectionTest02" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.FormatTest08" />
+    <configuration name="CollectionTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.CollectionTest03" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.homework.homework3.HomeworkSplit" />
+    <configuration name="CollectionTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.CollectionTest04" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.homework.homework3.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QiuZhi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.homework.homework1.QiuZhi" />
+    <configuration name="CollectionTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.CollectionTest05" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.homework.homework1.*" />
+          <option name="PATTERN" value="chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +130,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FormatTest07" />
-      <item itemvalue="Application.FormatTest08" />
-      <item itemvalue="Application.QiuZhi" />
-      <item itemvalue="Application.ArrayCut" />
-      <item itemvalue="Application.HomeworkSplit" />
+      <item itemvalue="Application.CollectionTest01" />
+      <item itemvalue="Application.CollectionTest02" />
+      <item itemvalue="Application.CollectionTest03" />
+      <item itemvalue="Application.CollectionTest04" />
+      <item itemvalue="Application.CollectionTest05" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeworkSplit" />
-        <item itemvalue="Application.ArrayCut" />
-        <item itemvalue="Application.QiuZhi" />
-        <item itemvalue="Application.FormatTest08" />
-        <item itemvalue="Application.FormatTest07" />
+        <item itemvalue="Application.CollectionTest05" />
+        <item itemvalue="Application.CollectionTest04" />
+        <item itemvalue="Application.CollectionTest03" />
+        <item itemvalue="Application.CollectionTest02" />
+        <item itemvalue="Application.CollectionTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,9 @@
       <workItem from="1620036369259" duration="747000" />
       <workItem from="1620037178813" duration="3810000" />
       <workItem from="1620053532599" duration="2519000" />
-      <workItem from="1620096573876" duration="7063000" />
+      <workItem from="1620096573876" duration="8094000" />
+      <workItem from="1620140315476" duration="286000" />
+      <workItem from="1620141544164" duration="3414000" />
     </task>
     <servers />
   </component>
@@ -220,14 +222,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="104" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1619673530792" />
-    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620035026752">
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620111445236">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1620035026752" />
-    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1620097132191">
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1620111445236" />
+    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1620142098440">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1620097132191" />
+    <state x="453" y="109" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1620142098440" />
     <state x="440" y="131" key="#com.intellij.ide.util.MemberChooser/0.25.1243.775@0.25.1243.775" timestamp="1619096050695" />
     <state x="352" y="65" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1620100980779">
       <screen x="0" y="0" width="1280" height="800" />
@@ -265,33 +267,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.-1.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618721641495" />
-    <state width="1238" height="144" key="GridCell.Tab.0.bottom" timestamp="1620110823697">
+    <state width="1238" height="144" key="GridCell.Tab.0.bottom" timestamp="1620178876391">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994848" />
     <state width="1361" height="196" key="GridCell.Tab.0.bottom/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922829" />
-    <state width="1238" height="144" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1620110823697" />
+    <state width="1238" height="144" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1620178876391" />
     <state width="1238" height="167" key="GridCell.Tab.0.bottom/0.25.1243.775@0.25.1243.775" timestamp="1620052184727" />
-    <state width="1238" height="144" key="GridCell.Tab.0.center" timestamp="1620110823695">
+    <state width="1238" height="144" key="GridCell.Tab.0.center" timestamp="1620178876390">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994846" />
     <state width="1361" height="196" key="GridCell.Tab.0.center/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922827" />
-    <state width="1238" height="144" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1620110823695" />
+    <state width="1238" height="144" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1620178876390" />
     <state width="1238" height="167" key="GridCell.Tab.0.center/0.25.1243.775@0.25.1243.775" timestamp="1620052184726" />
-    <state width="1238" height="144" key="GridCell.Tab.0.left" timestamp="1620110823695">
+    <state width="1238" height="144" key="GridCell.Tab.0.left" timestamp="1620178876389">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994846" />
     <state width="1361" height="196" key="GridCell.Tab.0.left/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922827" />
-    <state width="1238" height="144" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1620110823695" />
+    <state width="1238" height="144" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1620178876389" />
     <state width="1238" height="167" key="GridCell.Tab.0.left/0.25.1243.775@0.25.1243.775" timestamp="1620052184725" />
-    <state width="1238" height="144" key="GridCell.Tab.0.right" timestamp="1620110823696">
+    <state width="1238" height="144" key="GridCell.Tab.0.right" timestamp="1620178876391">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618795994847" />
     <state width="1361" height="196" key="GridCell.Tab.0.right/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618713922828" />
-    <state width="1238" height="144" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1620110823696" />
+    <state width="1238" height="144" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1620178876391" />
     <state width="1238" height="167" key="GridCell.Tab.0.right/0.25.1243.775@0.25.1243.775" timestamp="1620052184727" />
     <state width="1398" height="196" key="GridCell.Tab.1.bottom" timestamp="1618721619852">
       <screen x="0" y="0" width="1440" height="900" />
@@ -309,34 +311,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.1.right/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618721619851" />
-    <state x="204" y="25" width="1024" height="775" key="SettingsEditor" timestamp="1620052980167">
+    <state x="204" y="25" width="1024" height="775" key="SettingsEditor" timestamp="1620179053934">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="229" y="60" key="SettingsEditor/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618714429738" />
-    <state x="204" y="25" width="1024" height="775" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1620052980167" />
-    <state x="332" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1620096573853">
+    <state x="204" y="25" width="1024" height="775" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1620179053934" />
+    <state x="332" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1620141544363">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="375" y="281" key="com.intellij.ide.util.TipDialog/-1600.-75.1600.875/0.25.1403.875@0.25.1403.875" timestamp="1618714218576" />
-    <state x="332" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1620096573853" />
+    <state x="332" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1620141544363" />
     <state x="332" y="252" key="com.intellij.ide.util.TipDialog/0.25.1243.775@0.25.1243.775" timestamp="1619702119586" />
     <state x="378" y="168" width="530" height="488" key="extract.method.dialog" timestamp="1620110328761">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="168" width="530" height="488" key="extract.method.dialog/0.0.1280.800@0.0.1280.800" timestamp="1620110328761" />
-    <state x="300" y="169" width="680" height="462" key="find.popup" timestamp="1620052415242">
+    <state x="300" y="169" width="680" height="462" key="find.popup" timestamp="1620179030555">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="300" y="169" width="680" height="462" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1620052415242" />
+    <state x="300" y="169" width="680" height="462" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1620179030555" />
     <state x="402" y="12" key="refactoring.ChangeSignatureDialog" timestamp="1619014669858">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="402" y="12" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1619014669858" />
-    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup" timestamp="1620053418733">
+    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup" timestamp="1620179022005">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-1600.-100.1600.900/0.0.1440.900@0.0.1440.900" timestamp="1618724366404" />
-    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1620053418733" />
+    <state x="342" y="174" width="670" height="601" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1620179022005" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
