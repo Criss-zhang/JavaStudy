@@ -48,6 +48,7 @@ public class JDBCTest06 {
             final ResultSet resultSet = preparedStatement.executeQuery();
             final ResultSetMetaData metaData = resultSet.getMetaData();
             final int columnCount = metaData.getColumnCount();
+
             while (resultSet.next()) {
                 for (int i = 0; i < columnCount; i++) {
                     System.out.print(resultSet.getString(i + 1) + "\t");
