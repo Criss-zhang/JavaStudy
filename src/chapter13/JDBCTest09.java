@@ -75,8 +75,8 @@ public class JDBCTest09 {
     public static void main(String[] args) throws Exception{
         final JDBCTest09 jdbcTest09 = new JDBCTest09();
         jdbcTest09.initParam();
-        jdbcTest09.insertImg("图片绝对路径");
+//        jdbcTest09.insertImg("图片绝对路径");
         jdbcTest09.query();
-        jdbcTest09.outPutFile();
+//        jdbcTest09.outPutFile();
     }
 }
