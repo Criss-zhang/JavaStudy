@@ -1,5 +1,8 @@
 package chapter13;
 
+import com.mysql.jdbc.DatabaseMetaData;
+import com.mysql.jdbc.JDBC4DatabaseMetaData;
+
 import java.io.FileInputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
