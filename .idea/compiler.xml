@@ -4,8 +4,8 @@
     <excludeFromCompile>
       <file url="file://$PROJECT_DIR$/src/ArraysTest01.java" />
     </excludeFromCompile>
-    <bytecodeTargetLevel target="9">
-      <module name="JavaStudy" target="9" />
+    <bytecodeTargetLevel target="13">
+      <module name="JavaStudy" target="15" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

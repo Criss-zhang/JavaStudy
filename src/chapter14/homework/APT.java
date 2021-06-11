@@ -9,12 +9,12 @@ import java.util.Set;
 
 import com.sun.source.tree.Tree;
 import com.sun.tools.javac.api.JavacTrees;
+import com.sun.tools.javac.code.Flags;
 import com.sun.tools.javac.processing.JavacProcessingEnvironment;
 import com.sun.tools.javac.tree.JCTree;
 import com.sun.tools.javac.tree.TreeMaker;
 import com.sun.tools.javac.tree.TreeTranslator;
 import com.sun.tools.javac.util.*;
-import com.sun.tools.javac.code.Flags;
 
 @SupportedAnnotationTypes({"chapter14.Getter","chapter14.Setter"})
 @SupportedSourceVersion(SourceVersion.RELEASE_8)
@@ -91,4 +91,5 @@ public class APT extends AbstractProcessor {
         return names.fromString("get" + s.substring(0, 1).toUpperCase() + s.substring(1, name.length()));
     }
 }
+
 
